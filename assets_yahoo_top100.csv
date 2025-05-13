@@ -1,0 +1,121 @@
+Ticker,Nombre
+AAPL,Apple
+MSFT,Microsoft
+GOOGL,Alphabet (Google)
+AMZN,Amazon
+NVDA,Nvidia
+BRK-B,Berkshire Hathaway
+TSLA,Tesla
+META,Meta
+UNH,UnitedHealth
+JNJ,Johnson & Johnson
+XOM,ExxonMobil
+V,Visa
+JPM,JPMorgan Chase
+LLY,Eli Lilly
+WMT,Walmart
+MA,Mastercard
+PG,Procter & Gamble
+CVX,Chevron
+HD,Home Depot
+MRK,Merck
+PEP,PepsiCo
+ABBV,AbbVie
+KO,Coca-Cola
+BAC,Bank of America
+AVGO,Broadcom
+COST,Costco
+TMO,Thermo Fisher
+DIS,Disney
+ACN,Accenture
+CSCO,Cisco
+ABT,Abbott
+ADBE,Adobe
+MCD,McDonald's
+DHR,Danaher
+WFC,Wells Fargo
+INTC,Intel
+CRM,Salesforce
+TXN,Texas Instruments
+CMCSA,Comcast
+NKE,Nike
+AMD,AMD
+NEE,NextEra Energy
+LIN,Linde
+ORCL,Oracle
+HON,Honeywell
+UPS,UPS
+BMY,Bristol-Myers
+PM,Philip Morris
+QCOM,Qualcomm
+AMGN,Amgen
+MS,Morgan Stanley
+IBM,IBM
+LOW,Lowe's
+MDT,Medtronic
+CVS,CVS Health
+GE,General Electric
+SBUX,Starbucks
+RTX,RTX
+ELV,Elevance Health
+LMT,Lockheed Martin
+ISRG,Intuitive Surgical
+CAT,Caterpillar
+TGT,Target
+BLK,BlackRock
+CI,Cigna
+SPGI,S&P Global
+PLD,Prologis
+GILD,Gilead Sciences
+ADP,ADP
+ZTS,Zoetis
+NOW,ServiceNow
+MO,Altria
+PNC,PNC Financial
+SYK,Stryker
+CB,Chubb
+DE,Deere & Co
+FISV,Fiserv
+ADI,Analog Devices
+MMC,Marsh McLennan
+GM,General Motors
+ETN,Eaton
+APD,Air Products
+REGN,Regeneron
+BKNG,Booking Holdings
+NSC,Norfolk Southern
+AON,Aon
+FDX,FedEx
+SO,Southern Company
+ECL,Ecolab
+EMR,Emerson Electric
+PSA,Public Storage
+CL,Colgate-Palmolive
+ALL,Allstate
+ROST,Ross Stores
+PSX,Phillips 66
+GD,General Dynamics
+TFC,Truist Financial
+AZO,AutoZone
+EXC,Exelon
+CTAS,Cintas
+^GSPC,S&P 500 Index
+^DJI,Dow Jones Industrial Average
+^IXIC,Nasdaq Composite
+^RUT,Russell 2000
+^VIX,CBOE Volatility Index (VIX)
+^FTSE,FTSE 100 (UK)
+^N225,Nikkei 225 (Japan)
+^HSI,Hang Seng Index (Hong Kong)
+^GDAXI,DAX 40 (Germany)
+^FCHI,CAC 40 (France)
+BTC-USD,Bitcoin
+ETH-USD,Ethereum
+BNB-USD,Binance Coin
+XRP-USD,Ripple
+SOL-USD,Solana
+ADA-USD,Cardano
+DOGE-USD,Dogecoin
+AVAX-USD,Avalanche
+MATIC-USD,Polygon
+DOT-USD,Polkadot
